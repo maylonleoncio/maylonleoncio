@@ -14,3 +14,10 @@
   	<img align="center" alt="SAS" height="40" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/sas-logo-business-analytics-and-business-intelligence-software.png">
 </div>
 
+##
+
+<div>
+	<a href="https://www.linkedin.com/in/maylonleoncio/" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></ab>
+
+</div>
+
