@@ -1,6 +1,6 @@
 ### 👋 Oii, Eu sou o Maylon Leoncio 🇧🇷
 
-- 👨‍💻 Hoje trabalho com análise, visualização e modelagem de dados, machine learning e NLP 
+- 👨‍💻 Hoje trabalho com análise, visualização, modelagem de dados, machine learning e NLP 
 - 🌱 Estudando Ciência de Dados 
 
 
